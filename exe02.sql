@@ -1,4 +1,4 @@
-
+-- PostgreSQL
 -- Crie a tabela tb_categorias e determine pelo menos 2 atributos, além da Chave Primária, relevantes para classificar as pizzas.
 CREATE TABLE tb_categorias(
 	id bigserial PRIMARY KEY,
